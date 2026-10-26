@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="pillarsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c17" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+
+    <!-- Header Gradient -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+
+    <!-- Card Gradients -->
+    <linearGradient id="cardGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c2d48" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#061826" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#241142" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#140826" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="cardGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#052e24" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#031a14" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="cardGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#082b3d" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#041620" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="cardGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d1038" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#180720" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="cardGrad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b2306" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#211202" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="cardGrad7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#062d2d" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#021919" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="cardGrad8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2e05" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0d1802" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="cardGrad9" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3d0a1b" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#21040d" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="cardGrad10" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#042c33" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#02171b" stop-opacity="0.9" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="miniGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#334155" stroke-width="0.5" stroke-opacity="0.4" />
+    </pattern>
+
+    <style>
+      .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .font-mono { font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
+      @keyframes glowPulse {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 1; }
+      }
+      .pulse-line {
+        animation: glowPulse 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="360" rx="14" fill="url(#pillarsBg)" />
+  <rect width="1200" height="360" rx="14" fill="url(#miniGrid)" />
+  <rect x="10" y="10" width="1180" height="340" rx="12" fill="none" stroke="#334155" stroke-width="1.2" stroke-opacity="0.7" />
+
+  <!-- Connecting Bus Lines -->
+  <path d="M 130 130 L 1070 130" stroke="#38bdf8" stroke-width="1.5" stroke-opacity="0.3" stroke-dasharray="6,4" />
+  <path d="M 130 270 L 1070 270" stroke="#a855f7" stroke-width="1.5" stroke-opacity="0.3" stroke-dasharray="6,4" />
+  <path d="M 600 130 L 600 270" stroke="#34d399" stroke-width="1.5" stroke-opacity="0.4" stroke-dasharray="4,4" />
+
+  <!-- HEADER -->
+  <g transform="translate(40, 42)">
+    <rect x="0" y="-18" width="8" height="24" rx="4" fill="#38bdf8" />
+    <text x="18" y="0" class="font-sans font-bold" font-size="20" fill="url(#headerGrad)" letter-spacing="1.2">
+      10 SCALABILITY &amp; QUALITY PILLARS
+    </text>
+    <text x="440" y="-1" class="font-mono" font-size="11.5" fill="#94a3b8">
+      CORE ARCHITECTURAL FOUNDATION &#8226; RESILIENT &#8226; SECURE &#8226; COST-GOVERNED
+    </text>
+    <g transform="translate(980, -18)">
+      <rect x="0" y="0" width="140" height="22" rx="11" fill="#064e3b" stroke="#10b981" stroke-width="1" />
+      <circle cx="12" cy="11" r="4" fill="#34d399" />
+      <text x="24" y="15" class="font-mono font-bold" font-size="9.5" fill="#a7f3d0">PRODUCTION READY</text>
+    </g>
+  </g>
+
+  <!-- ================= ROW 1 (Cards 1 to 5) ================= -->
+  <!-- CARD 1: SCALABLE -->
+  <g transform="translate(30, 75)">
+    <rect width="216" height="115" rx="10" fill="url(#cardGrad1)" stroke="#0284c7" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#0369a1" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#38bdf8" text-anchor="middle">1</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0f9ff">Scalable</text>
+    <rect x="18" y="52" width="180" height="2" fill="#0284c7" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#7dd3fc">&gt; Multi-AZ VMSS</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Auto-Scale Rules</text>
+  </g>
+
+  <!-- CARD 2: ROBUST -->
+  <g transform="translate(266, 75)">
+    <rect width="216" height="115" rx="10" fill="url(#cardGrad2)" stroke="#9333ea" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#7e22ce" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#c084fc" text-anchor="middle">2</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#faf5ff">Robust</text>
+    <rect x="18" y="52" width="180" height="2" fill="#9333ea" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#d8b4fe">&gt; Chaos Hardened</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Self-Healing Pods</text>
+  </g>
+
+  <!-- CARD 3: SECURE -->
+  <g transform="translate(502, 75)">
+    <rect width="216" height="115" rx="10" fill="url(#cardGrad3)" stroke="#10b981" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#059669" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#6ee7b7" text-anchor="middle">3</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0fdf4">Secure</text>
+    <rect x="18" y="52" width="180" height="2" fill="#10b981" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#6ee7b7">&gt; Zero-Trust &amp; PIM</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; CIS L2 Benchmarks</text>
+  </g>
+
+  <!-- CARD 4: RELIABLE -->
+  <g transform="translate(738, 75)">
+    <rect width="216" height="115" rx="10" fill="url(#cardGrad4)" stroke="#0ea5e9" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#0284c7" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#7dd3fc" text-anchor="middle">4</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0f9ff">Reliable</text>
+    <rect x="18" y="52" width="180" height="2" fill="#0ea5e9" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#38bdf8">&gt; 99.99% SLO / SLA</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Predictable Perf</text>
+  </g>
+
+  <!-- CARD 5: PORTABLE -->
+  <g transform="translate(974, 75)">
+    <rect width="196" height="115" rx="10" fill="url(#cardGrad5)" stroke="#a855f7" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#7c3aed" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#d8b4fe" text-anchor="middle">5</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#faf5ff">Portable</text>
+    <rect x="18" y="52" width="160" height="2" fill="#a855f7" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#c084fc">&gt; Docker &amp; AKS</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Modular Terraform</text>
+  </g>
+
+  <!-- ================= ROW 2 (Cards 6 to 10) ================= -->
+  <!-- CARD 6: GOVERNED -->
+  <g transform="translate(30, 210)">
+    <rect width="216" height="115" rx="10" fill="url(#cardGrad6)" stroke="#f59e0b" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#d97706" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#fde68a" text-anchor="middle">6</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#fffbeb">Governed</text>
+    <rect x="18" y="52" width="180" height="2" fill="#f59e0b" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#fcd34d">&gt; Azure Policy Guard</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Auto Drift Detect</text>
+  </g>
+
+  <!-- CARD 7: HIGH AVAILABILITY -->
+  <g transform="translate(266, 210)">
+    <rect width="216" height="115" rx="10" fill="url(#cardGrad7)" stroke="#14b8a6" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#0d9488" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#5eead4" text-anchor="middle">7</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0fdfa">High Avail</text>
+    <rect x="18" y="52" width="180" height="2" fill="#14b8a6" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#5eead4">&gt; Multi-Zone Active</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Health Probing</text>
+  </g>
+
+  <!-- CARD 8: COST-OPTIMIZED -->
+  <g transform="translate(502, 210)">
+    <rect width="216" height="115" rx="10" fill="url(#cardGrad8)" stroke="#84cc16" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#65a30d" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#bef264" text-anchor="middle">8</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f7fee7">Cost-Optim</text>
+    <rect x="18" y="52" width="180" height="2" fill="#84cc16" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#a3e635">&gt; FinOps 28% OPEX Cut</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Rightsizing &amp; RIs</text>
+  </g>
+
+  <!-- CARD 9: BACKED UP -->
+  <g transform="translate(738, 210)">
+    <rect width="216" height="115" rx="10" fill="url(#cardGrad9)" stroke="#f43f5e" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#e11d48" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#fda4af" text-anchor="middle">9</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#fff1f2">Backed Up</text>
+    <rect x="18" y="52" width="180" height="2" fill="#f43f5e" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#fb7185">&gt; ASR: RTO &lt; 1h</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; ZRS / GRS: RPO &lt; 15m</text>
+  </g>
+
+  <!-- CARD 10: COMPLIANT & MONITORED -->
+  <g transform="translate(974, 210)">
+    <rect width="196" height="115" rx="10" fill="url(#cardGrad10)" stroke="#06b6d4" stroke-width="1.8" />
+    <circle cx="28" cy="28" r="14" fill="#0891b2" fill-opacity="0.5" />
+    <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#67e8f9" text-anchor="middle">10</text>
+    <text x="48" y="32" class="font-sans font-bold" font-size="14" fill="#ecfeff">Monitored</text>
+    <rect x="18" y="52" width="160" height="2" fill="#06b6d4" fill-opacity="0.4" />
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#22d3ee">&gt; Azure Monitor AMA</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; DCR Log Filtering</text>
+  </g>
+</svg>

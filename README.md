@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- ANIMATED HERO BANNER -->
-<img src="./assets/banner.svg" alt="Sarvesh Kumar Mishra - Senior DevSecOps Engineer &amp; Cloud Architect" width="100%" />
+<img src="./assets/banner.svg" alt="Sarvesh Kumar Mishra - Senior DevSecOps &amp; Cloud Professional" width="100%" />
 
 <br/>
 
 # Sarvesh Kumar Mishra
-### **Senior DevSecOps Engineer &bull; Enterprise Cloud Architect &bull; Technical Lead**
-**16+ Years Total IT Experience | 7+ Years Specialized in DevSecOps & Multi-Cloud Architecture**
+### **Senior DevSecOps &bull; Cloud Professional &bull; Technical Lead**
+**16+ Years Total IT Experience | 7+ Years Specialized in DevSecOps & Multi-Cloud Platforms**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarvesh_Kumar_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshkumarmishra)
 [![Email](https://img.shields.io/badge/Email-Contact_Sarvesh-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarvesh.mishra.devsecops@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Open_for_Global_&_Remote-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](#-get-in-touch--lets-collaborate)
-[![Status](https://img.shields.io/badge/Status-Open_for_Lead_/_Architect_Roles-8A2BE2?style=for-the-badge&logo=target&logoColor=white)](#-executive-profile--career-narrative)
+[![Status](https://img.shields.io/badge/Status-Open_for_Senior_DevSecOps_Roles-8A2BE2?style=for-the-badge&logo=target&logoColor=white)](#-executive-profile--career-narrative)
 
 <p align="center">
-  <b>Architecting Resilient Multi-Cloud Foundations &bull; Shifting Security Left &bull; Driving 100+ Workload Enterprise Migrations &bull; Scaling FinOps & Governance</b>
+  <b>Hardening Multi-Cloud Foundations &bull; Shifting Security Left &bull; Accelerating 100+ Workload Enterprise Migrations &bull; Scaling FinOps & Governance</b>
 </p>
 
 ---
@@ -24,29 +24,22 @@
 
 ## 📌 Executive Profile & Career Narrative
 
-I am a **Senior DevSecOps Engineer and Cloud Architect** with **16+ years of total IT industry experience**, including **7+ years dedicated to enterprise-scale DevSecOps, cloud migration, and Infrastructure as Code (IaC)**. 
+I am a **Senior DevSecOps and Cloud Professional** with **16+ years of total IT industry experience**, including **7+ years dedicated to enterprise-scale DevSecOps, multi-cloud platforms, and Infrastructure as Code (IaC)**. 
 
-Throughout my career, I have operated at the intersection of **business strategy, systems architecture, and engineering leadership**. I specialize in designing and delivering enterprise Azure and AWS landing zones, orchestrating zero-downtime migrations (100+ multi-tier workloads), hardening defense-in-depth security postures (CIS/ISO27001), and implementing automated DevSecOps pipelines that shift security left without throttling developer velocity.
+Throughout my career, I have focused on bridging **enterprise business needs, robust security postures, and engineering velocity**. I specialize in building enterprise Azure and AWS landing zones, executing zero-downtime cloud migrations (100+ multi-tier workloads), hardening defense-in-depth security (CIS/ISO27001), and implementing automated DevSecOps pipelines that shift security left without throttling developer productivity.
 
-```
-                           [ How to Look Unique? ]
-                                      │
-                                [ Portfolio ]
-                                      │
-                     ┌────────────────┴────────────────┐
-                     │                                 │
-                [ Freshers ]                    [ Experienced ]
-                                                       │
-                                      ┌────────────────┴────────────────┐
-                                      │ 1. Resume (Impact & metrics)    │
-                                      │ 2. LinkedIn (Thought leader)    │
-                                      │ 3. Job Portals (Keywords)       │
-                                      │ 4. GitHub (Production IaC/Pipelines)
-                                      │ 5. Technical Blog & ADRs        │
-                                      └─────────────────────────────────┘
-```
+<br/>
 
-> **The Senior Mindset:** Senior engineers and architects do not merely configure tools; we answer fundamental questions: *"What is the business? What is the functional domain? What is the impact on ROI, reliability, and security?"* My approach aligns infrastructure blueprints with organizational revenue, risk management, and governance.
+<div align="center">
+
+<!-- VIBRANT VISUAL: HOW TO STAND OUT / STRATEGIC PORTFOLIO -->
+<img src="./assets/portfolio-strategy.svg" alt="Strategic DevSecOps Portfolio Strategy" width="100%" />
+
+</div>
+
+<br/>
+
+> **The Senior DevSecOps Mindset:** Experienced practitioners do not merely configure tool syntax; we answer the strategic questions: *"What is the business domain? How do we prevent security vulnerabilities before code merges? How do we ensure 99.99% availability while optimizing cloud spend?"* My approach aligns automated infrastructure with organizational compliance, risk mitigation, and measurable ROI.
 
 ---
 
@@ -54,37 +47,68 @@ Throughout my career, I have operated at the intersection of **business strategy
 
 | Metric | Business & Engineering Value Delivered | Primary Technologies / Domains |
 |:---|:---|:---|
-| **16+ Years** | Proven track record spanning enterprise IT infrastructure, systems engineering, and cloud transformation | Enterprise Architecture & Leadership |
-| **7+ Years** | Hands-on DevSecOps, automated CI/CD governance, and multi-cloud security hardening | Azure DevOps, GitHub Actions, Jenkins, Checkov, Trivy |
-| **100+ Workloads** | Seamless end-to-end datacenter-to-Azure migration executed with **zero unexpected downtime** | Azure Migrate, CAF, Hub-and-Spoke, ASR |
+| **16+ Years** | Solid track record spanning IT infrastructure engineering, systems administration, and cloud transformation | Enterprise IT & Team Leadership |
+| **7+ Years** | Hands-on DevSecOps engineering, automated CI/CD governance, and cloud security hardening | Azure DevOps, GitHub Actions, Jenkins, Checkov, Trivy |
+| **100+ Workloads** | Datacenter-to-Azure migration executed with **zero unexpected business downtime** | Azure Migrate, CAF, Hub-and-Spoke, ASR |
 | **28%+ OPEX Saved** | Continuous FinOps cost governance via rightsizing, automated scheduling, and log tuning | Infracost, Azure Cost Mgmt, Reserved Instances |
-| **100% Guardrails** | Automated drift detection and CIS Level 2 benchmark policy enforcement across management groups | Terraform, Azure Policy, Defender for Cloud |
-| **99.99% Uptime** | High-availability compute architectures with multi-region disaster recovery (RTO &lt; 1h / RPO &lt; 15m) | VMSS, Azure Site Recovery, ZRS/GRS |
+| **100% Guardrails** | Automated drift detection and CIS Level 2 benchmark policy enforcement across environments | Terraform, Azure Policy, Defender for Cloud |
+| **99.99% Uptime** | Resilient compute architectures with multi-region disaster recovery (RTO &lt; 1h / RPO &lt; 15m) | VMSS, Azure Site Recovery, ZRS/GRS |
 
 ---
 
 ## 🏛️ The 10 Scalability & Quality Pillars
 
-Every enterprise solution and landing zone I architect is anchored in these ten non-negotiable architectural pillars:
+Every cloud foundation and landing zone I engineer is built on these ten non-negotiable architectural and operational pillars:
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                    10 Scalability & Quality Pillars                                    │
-│                                                                                                        │
-│   1. Scalable       2. Robust        3. Secure        4. Reliable        5. Portable                   │
-│   6. Governed       7. High Avail    8. Cost-Optim    9. Backed Up      10. Compliant & Monitored      │
-└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<!-- VIBRANT VISUAL: 10 SCALABILITY & QUALITY PILLARS -->
+<img src="./assets/pillars.svg" alt="10 Scalability & Quality Pillars" width="100%" />
+
+</div>
+
+<br/>
 
 ```mermaid
 flowchart TD
-    subgraph CorePillars ["🏛️ Enterprise Architecture & Governance Pillars"]
-        P1["1. Scalable & Robust<br/>(VMSS, Auto-scaling, Multi-AZ)"]
-        P2["2. Secure & Compliant<br/>(CIS L2, Zero-Trust, Entra ID PIM)"]
-        P3["3. Reliable & Portable<br/>(IaC Terraform, Containers, Multi-Cloud)"]
-        P4["4. FinOps & Cost-Optimized<br/>(28%+ Savings, Rightsizing, RIs)"]
-        P5["5. Backed Up & Observable<br/>(ASR, RTO < 1h, RPO < 15m, AMA DCR)"]
+    subgraph PillarsFlow ["🏛️ Interconnected Enterprise Pillars & Operational Guardrails"]
+        direction LR
+        P1["⚡ 1. Scalable<br/>• Multi-AZ VMSS<br/>• Auto-Scale Rules"]
+        P2["🛡️ 2. Robust<br/>• Chaos Tested<br/>• Self-Healing Pods"]
+        P3["🔒 3. Secure<br/>• Zero-Trust & PIM<br/>• CIS L2 Benchmarks"]
+        P4["⚙️ 4. Reliable<br/>• 99.99% SLA / SLO<br/>• Predictable Latency"]
+        P5["📦 5. Portable<br/>• Docker & AKS/EKS<br/>• Modular Terraform"]
+        P6["📜 6. Governed<br/>• Azure Policy Guard<br/>• Auto Drift Detect"]
+        P7["🌐 7. High Avail<br/>• Zone-Redundant<br/>• Health Probing"]
+        P8["💰 8. Cost-Optim<br/>• FinOps 28% Cut<br/>• Rightsizing & RIs"]
+        P9["💾 9. Backed Up<br/>• ASR: RTO < 1h<br/>• ZRS/GRS: RPO < 15m"]
+        P10["📊 10. Monitored<br/>• Azure Monitor AMA<br/>• DCR Log Filtering"]
     end
+
+    P1 <--> P2 <--> P3 <--> P4 <--> P5
+    P5 <--> P6 <--> P7 <--> P8 <--> P9 <--> P10
+
+    classDef c1 fill:#082f49,stroke:#38bdf8,stroke-width:2px,color:#f0f9ff;
+    classDef c2 fill:#2e1065,stroke:#a855f7,stroke-width:2px,color:#faf5ff;
+    classDef c3 fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#f0fdf4;
+    classDef c4 fill:#0c4a6e,stroke:#0ea5e9,stroke-width:2px,color:#f0f9ff;
+    classDef c5 fill:#3b0764,stroke:#c084fc,stroke-width:2px,color:#faf5ff;
+    classDef c6 fill:#451a03,stroke:#f59e0b,stroke-width:2px,color:#fffbeb;
+    classDef c7 fill:#042f2e,stroke:#14b8a6,stroke-width:2px,color:#f0fdfa;
+    classDef c8 fill:#1a2e05,stroke:#84cc16,stroke-width:2px,color:#f7fee7;
+    classDef c9 fill:#4c0519,stroke:#f43f5e,stroke-width:2px,color:#fff1f2;
+    classDef c10 fill:#042c33,stroke:#06b6d4,stroke-width:2px,color:#ecfeff;
+
+    class P1 c1;
+    class P2 c2;
+    class P3 c3;
+    class P4 c4;
+    class P5 c5;
+    class P6 c6;
+    class P7 c7;
+    class P8 c8;
+    class P9 c9;
+    class P10 c10;
 ```
 
 ---
@@ -95,14 +119,14 @@ This production-grade Hub-and-Spoke network topology ensures secure cross-premis
 
 ```mermaid
 flowchart TD
-    subgraph OnPrem ["🏢 On-Premises Enterprise Datacenter"]
-        DC["Core Datacenter Infrastructure / Legacy Systems"]
+    subgraph OnPrem ["🏢 On-Premises Datacenter (Legacy & Core Systems)"]
+        DC["Core DC Infrastructure<br/>(VMs, Legacy Databases, Local Active Directory)"]
     end
 
-    subgraph HubVNet ["🛡️ Azure HUB VNet (Central Connectivity & Security)"]
+    subgraph HubVNet ["🛡️ Azure HUB VNet (Centralized Connectivity & Security Perimeter)"]
         GW["GatewaySubnet<br/>(ExpressRoute / S2S VPN Gateway)"]
-        FW["Azure Firewall Premium / NVA<br/>(TLS Inspection & Central Egress)"]
-        DNS["Azure Private DNS Zones<br/>(Centralized PaaS Resolution)"]
+        FW["Azure Firewall Premium / NVA<br/>(TLS Inspection & Centralized Egress)"]
+        DNS["Azure Private DNS Zones<br/>(Centralized PaaS Name Resolution)"]
     end
 
     subgraph SpokeApp ["📦 Spoke 1: Production Application VNet"]
@@ -114,14 +138,28 @@ flowchart TD
     subgraph SpokeShared ["⚙️ Spoke 2: Shared Services & DevSecOps VNet"]
         Runners["Self-Hosted CI/CD Runners<br/>(Azure DevOps / Jenkins)"]
         Bastion["Azure Bastion Host"]
-        SecTools["Vulnerability & Monitoring Agents"]
+        SecTools["Security & Monitoring Agents"]
     end
 
     DC <-->|"ExpressRoute / S2S VPN"| GW
-    GW --> FW
-    FW <-->|"VNet Peering & UDR 0.0.0.0/0 Route"| SpokeApp
-    FW <-->|"VNet Peering & UDR 0.0.0.0/0 Route"| SpokeShared
-    DBTier -.->|"Private Endpoint Resolution"| DNS
+    GW -->|"Transit Traffic"| FW
+    FW <-->|"VNet Peering & UDR: 0.0.0.0/0"| SpokeApp
+    FW <-->|"VNet Peering & UDR: 0.0.0.0/0"| SpokeShared
+    DBTier -.->|"Private Endpoint DNS Resolution"| DNS
+
+    classDef onpremStyle fill:#18181b,stroke:#a1a1aa,stroke-width:2px,color:#f4f4f5;
+    classDef hubStyle fill:#082f49,stroke:#0284c7,stroke-width:2.5px,color:#f0f9ff;
+    classDef fwStyle fill:#7f1d1d,stroke:#ef4444,stroke-width:2.5px,color:#fef2f2;
+    classDef dnsStyle fill:#2e1065,stroke:#a855f7,stroke-width:2px,color:#faf5ff;
+    classDef spokeAppStyle fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#e0e7ff;
+    classDef spokeSharedStyle fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ecfdf5;
+
+    class DC onpremStyle;
+    class GW hubStyle;
+    class FW fwStyle;
+    class DNS dnsStyle;
+    class AppTier,DBTier,NSG1 spokeAppStyle;
+    class Runners,Bastion,SecTools spokeSharedStyle;
 ```
 
 ### Key Networking Architectural Decisions:
@@ -136,15 +174,21 @@ flowchart TD
 
 Security is not an afterthought; it is integrated across every tier of the enterprise ecosystem:
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                              Multi-Layered Defense-in-Depth                            │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│  1. Identity Level   │ Entra ID • PIM (JIT Approvals) • Conditional Access • MFA       │
-│  2. Network Level    │ Hub-and-Spoke • NSG / ASG Micro-segmentation • Azure Firewall   │
-│  3. Governance Level │ Azure Policy (CIS Benchmark) • Defender for Cloud Secure Score  │
-│  4. Compute & Data   │ Defender for Servers • CMK Disk Encryption • Automated Patching │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart LR
+    L1["🔑 1. Identity Level<br/>• Microsoft Entra ID<br/>• PIM Just-In-Time<br/>• Conditional Access & MFA"] --> L2["🌐 2. Network Level<br/>• Hub-and-Spoke Topology<br/>• NSG/ASG Micro-segmentation<br/>• Azure Firewall Premium"]
+    L2 --> L3["📜 3. Governance Level<br/>• Azure Policy (CIS L2)<br/>• Defender for Cloud Score<br/>• Automated Drift Detection"]
+    L3 --> L4["💻 4. Compute & Data<br/>• Defender for Servers<br/>• CMK Disk Encryption<br/>• Automated OS Patching"]
+
+    classDef idStyle fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#ffffff;
+    classDef netStyle fill:#082f49,stroke:#0284c7,stroke-width:2px,color:#ffffff;
+    classDef govStyle fill:#451a03,stroke:#f59e0b,stroke-width:2px,color:#ffffff;
+    classDef compStyle fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ffffff;
+
+    class L1 idStyle;
+    class L2 netStyle;
+    class L3 govStyle;
+    class L4 compStyle;
 ```
 
 | Security Layer | Implemented Enterprise Controls & Technology Stack |
@@ -170,6 +214,24 @@ flowchart LR
     E --> F["👥 Peer Review Gate<br/>(CODEOWNERS: 2+ Reviewers)"]
     F --> G["🚀 Terraform Apply<br/>(Azure Blob Lease Locked)"]
     G --> H["📊 Observability<br/>(Drift Detection & Telemetry)"]
+
+    classDef cGit fill:#4c0519,stroke:#f43f5e,stroke-width:2px,color:#ffffff;
+    classDef cLint fill:#1e1b4b,stroke:#6366f1,stroke-width:2px,color:#ffffff;
+    classDef cSec fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ffffff;
+    classDef cCost fill:#451a03,stroke:#f59e0b,stroke-width:2px,color:#ffffff;
+    classDef cPlan fill:#2e1065,stroke:#a855f7,stroke-width:2px,color:#ffffff;
+    classDef cGate fill:#7f1d1d,stroke:#ef4444,stroke-width:2px,color:#ffffff;
+    classDef cApply fill:#082f49,stroke:#0284c7,stroke-width:2px,color:#ffffff;
+    classDef cObs fill:#042f2e,stroke:#14b8a6,stroke-width:2px,color:#ffffff;
+
+    class A cGit;
+    class B cLint;
+    class C cSec;
+    class D cCost;
+    class E cPlan;
+    class F cGate;
+    class G cApply;
+    class H cObs;
 ```
 
 ### DevSecOps Quality & Branching Safeguards:
@@ -188,10 +250,22 @@ A proven, systematic blueprint for migrating mission-critical enterprise workloa
 
 ```mermaid
 flowchart LR
-    S1["1. Discovery<br/>• Inventory & Dependency Map<br/>• Azure Migrate Appliances"] --> S2["2. Assessment<br/>• Readiness & Sizing<br/>• TCO & ROI Projections<br/>• Wave Planning"]
-    S2 --> S3["3. Landing Zone<br/>• CAF Architecture<br/>• Hub-and-Spoke Network<br/>• Identity & Governance"]
-    S3 --> S4["4. Cutover Execution<br/>• DB Replication Sync<br/>• DNS TTL Reduction<br/>• Maintenance Window"]
-    S4 --> S5["5. Hypercare<br/>• 24x7 War Room Support<br/>• Performance Baseline<br/>• FinOps Rightsizing"]
+    S1["1. Discovery<br/>• Inventory Assessment<br/>• Dependency Mapping<br/>• Azure Migrate Appliances"] --> S2["2. Assessment<br/>• Readiness & Sizing<br/>• TCO & ROI Calculation<br/>• Wave Planning"]
+    S2 --> S3["3. Landing Zone<br/>• CAF Alignment<br/>• Hub-and-Spoke Network<br/>• Identity & Governance"]
+    S3 --> S4["4. Cutover Execution<br/>• DB Replication Sync<br/>• DNS TTL Reduction<br/>• Zero-Downtime Window"]
+    S4 --> S5["5. Hypercare<br/>• 24x7 War Room Support<br/>• Real-Time Telemetry<br/>• FinOps Rightsizing"]
+
+    classDef m1 fill:#0c4a6e,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
+    classDef m2 fill:#3b0764,stroke:#c084fc,stroke-width:2px,color:#ffffff;
+    classDef m3 fill:#134e4a,stroke:#2dd4bf,stroke-width:2px,color:#ffffff;
+    classDef m4 fill:#78350f,stroke:#fbbf24,stroke-width:2px,color:#ffffff;
+    classDef m5 fill:#052e16,stroke:#4ade80,stroke-width:2px,color:#ffffff;
+
+    class S1 m1;
+    class S2 m2;
+    class S3 m3;
+    class S4 m4;
+    class S5 m5;
 ```
 
 ### Comprehensive Migration Playbook:
@@ -204,18 +278,32 @@ flowchart LR
 
 ## 💰 FinOps: Cloud Financial Management & Optimization
 
-Cloud architecture is incomplete without cost governance. By treating cost as a primary architectural constraint, I consistently reduce cloud waste while preserving performance:
+Cloud engineering is incomplete without continuous cost governance. By treating cost as a primary architectural constraint, I consistently reduce cloud waste while preserving performance:
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                   FinOps Optimization Framework                                 │
-├────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  1. Waste Elimination │ Automated cleanup of unattached disks, orphan public IPs & snapshots  │
-│  2. Dynamic Sizing    │ Compute rightsizing based on 30-day P95 utilization telemetry          │
-│  3. Commitment Savings│ Strategic 1-Yr & 3-Yr Reserved Instances (RI) & Azure Savings Plans    │
-│  4. Workload Scheduling│ Automated start/stop runbooks for non-production environments         │
-│  5. Log Ingestion Cut │ Azure Monitor Data Collection Rules (DCR) filtering noisy diagnostics  │
-└────────────────────────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TD
+    subgraph FinOpsFramework ["💰 5-Pillar Cloud FinOps Governance Framework"]
+        direction LR
+        F1["🗑️ 1. Waste Elimination<br/>• Unattached Disks<br/>• Orphaned Public IPs<br/>• Obsolete Snapshots"]
+        F2["📐 2. Dynamic Rightsizing<br/>• 30-Day P95 Telemetry<br/>• Downsize Idle Compute<br/>• Autoscale Thresholds"]
+        F3["💳 3. Commitment Savings<br/>• 1-Yr & 3-Yr RIs<br/>• Azure Savings Plans<br/>• Steady-State Loads"]
+        F4["⏰ 4. Workload Scheduling<br/>• Non-Prod Auto Stop/Start<br/>• Weekend Off-Hours<br/>• Serverless Schedules"]
+        F5["📉 5. Log Ingestion Cut<br/>• Azure Monitor AMA DCR<br/>• Filter Low-Value Logs<br/>• 30%+ Log Cost Cut"]
+    end
+
+    F1 --- F2 --- F3 --- F4 --- F5
+
+    classDef fin1 fill:#4c0519,stroke:#f43f5e,stroke-width:1.8px,color:#fff;
+    classDef fin2 fill:#1e1b4b,stroke:#818cf8,stroke-width:1.8px,color:#fff;
+    classDef fin3 fill:#451a03,stroke:#f59e0b,stroke-width:1.8px,color:#fff;
+    classDef fin4 fill:#042f2e,stroke:#14b8a6,stroke-width:1.8px,color:#fff;
+    classDef fin5 fill:#064e3b,stroke:#10b981,stroke-width:1.8px,color:#fff;
+
+    class F1 fin1;
+    class F2 fin2;
+    class F3 fin3;
+    class F4 fin4;
+    class F5 fin5;
 ```
 
 * **Eliminating Idle Resources:** Scheduled Azure Automation runbooks and Logic Apps identifying unattached disks, obsolete snapshots, and unused public IP addresses.
@@ -238,23 +326,34 @@ Ensuring 99.99% system availability through proactive observability, structured 
 
 ---
 
-## 👥 Technical Leadership & Delivery Governance
+## 👥 IT Career Matrix, Leadership & Delivery Governance
 
-Operating at the Lead/Architect level requires balancing hands-on deep-dive technical engineering with executive stakeholder management:
+Operating at the senior level requires combining deep-dive technical engineering with structured delivery governance:
 
-```
-+------------+       +---------------+       +---------+       +----------------------+       +----------------+
-|   Sales    | ----> |   Pre-Sales   | ----> |   TAM   | ----> | Enterprise Architect | ----> | Technical Lead |
-| Commercial |       | Techno-       |       | Tech    |       | Infra + Application  |       | Infra / App    |
-| Focus      |       | Functional    |       | Account |       | Strategy & Design    |       | Execution      |
-|            |       | Proposals     |       | Manager |       |                      |       |                |
-+------------+       +---------------+       +---------+       +----------------------+       +----------------+
+```mermaid
+flowchart LR
+    C1["💼 Sales<br/>(Commercial Focus &<br/>Client Relationships)"] --> C2["📑 Pre-Sales<br/>(Techno-Functional RFPs<br/>& POC Solutions)"]
+    C2 --> C3["🤝 TAM<br/>(Technical Account Mgmt<br/>& Trusted Advisor)"]
+    C3 --> C4["🏛️ Cloud Architecture<br/>(Landing Zones &<br/>Enterprise Strategy)"]
+    C4 --> C5["⭐ Senior DevSecOps Lead<br/>(Hands-On Execution,<br/>IaC & Security Hardening)"]
+
+    classDef track1 fill:#0f172a,stroke:#64748b,stroke-width:1.5px,color:#cbd5e1;
+    classDef track2 fill:#172554,stroke:#3b82f6,stroke-width:1.5px,color:#eff6ff;
+    classDef track3 fill:#2e1065,stroke:#a855f7,stroke-width:1.5px,color:#faf5ff;
+    classDef track4 fill:#451a03,stroke:#f59e0b,stroke-width:1.8px,color:#fffbeb;
+    classDef track5 fill:#064e3b,stroke:#10b981,stroke-width:2.5px,color:#f0fdf4;
+
+    class C1 track1;
+    class C2 track2;
+    class C3 track3;
+    class C4 track4;
+    class C5 track5;
 ```
 
 * **Pre-Sales & Solutioning:** Authoring techno-functional proposals, responding to enterprise RFPs/RFIs, creating technical estimation models, and delivering architecture POCs.
 * **Vendor & Partner Governance:** Managing Statement of Work (SOW) definitions, objective **Technical Evaluation Matrices**, SLA enforcement, and deliverable sign-offs.
 * **Governance Frameworks:** Formulating Standard Operating Procedures (SOPs), conducting blameless incident retrospectives, and enforcing RACI matrices across cross-functional squads.
-* **Engineering Mentorship:** Running structured Knowledge Transfer (KT) sessions, upskilling junior and mid-level engineers in DevSecOps practices, and chairing Architecture Review Boards (ARBs).
+* **Engineering Mentorship:** Running structured Knowledge Transfer (KT) sessions, upskilling junior and mid-level engineers in DevSecOps practices, and conducting code and IaC reviews.
 
 ---
 
@@ -309,7 +408,7 @@ Operating at the Lead/Architect level requires balancing hands-on deep-dive tech
 
 ---
 
-## 📂 Featured Enterprise Architecture Blueprints
+## 📂 Featured Production Blueprints & Repositories
 
 Explore select architectural frameworks, IaC boilerplates, and automated pipeline templates:
 
@@ -359,7 +458,7 @@ Explore select architectural frameworks, IaC boilerplates, and automated pipelin
 
 ## 🤝 Get in Touch & Let's Collaborate
 
-Whether you are seeking a **Senior / Lead DevSecOps Engineer**, an **Enterprise Cloud Architect** to guide high-stakes cloud migrations, or technical advisory on establishing secure, cost-governed cloud platforms:
+Whether you are looking for a **Senior DevSecOps & Cloud Professional**, an experienced engineer to guide large-scale cloud migrations, or technical expertise on establishing automated, cost-governed cloud platforms:
 
 <div align="center">
 
@@ -373,6 +472,6 @@ Whether you are seeking a **Senior / Lead DevSecOps Engineer**, an **Enterprise 
 "Infrastructure is code. Security is continuous. Scalability is non-negotiable."
 ```
 
-**Designed & Architected with 🛡️ by Sarvesh Kumar Mishra**
+**Crafted with 🛡️ by Sarvesh Kumar Mishra**
 
 </div>
