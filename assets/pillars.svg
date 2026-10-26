@@ -88,127 +88,127 @@
   <g transform="translate(40, 42)">
     <rect x="0" y="-18" width="8" height="24" rx="4" fill="#38bdf8" />
     <text x="18" y="0" class="font-sans font-bold" font-size="20" fill="url(#headerGrad)" letter-spacing="1.2">
-      10 SCALABILITY &amp; QUALITY PILLARS
+      10 DEVSECOPS &amp; CLOUD ENGINEERING PILLARS
     </text>
-    <text x="440" y="-1" class="font-mono" font-size="11.5" fill="#94a3b8">
-      CORE ARCHITECTURAL FOUNDATION &#8226; RESILIENT &#8226; SECURE &#8226; COST-GOVERNED
+    <text x="490" y="-1" class="font-mono" font-size="11.5" fill="#94a3b8">
+      TERRAFORM &#8226; CI/CD &#8226; KUBERNETES &#8226; DOCKER &#8226; AZURE CLOUD
     </text>
     <g transform="translate(980, -18)">
       <rect x="0" y="0" width="140" height="22" rx="11" fill="#064e3b" stroke="#10b981" stroke-width="1" />
       <circle cx="12" cy="11" r="4" fill="#34d399" />
-      <text x="24" y="15" class="font-mono font-bold" font-size="9.5" fill="#a7f3d0">PRODUCTION READY</text>
+      <text x="24" y="15" class="font-mono font-bold" font-size="9.5" fill="#a7f3d0">PRACTICE HARDENED</text>
     </g>
   </g>
 
   <!-- ================= ROW 1 (Cards 1 to 5) ================= -->
-  <!-- CARD 1: SCALABLE -->
+  <!-- CARD 1: TERRAFORM / IaC -->
   <g transform="translate(30, 75)">
     <rect width="216" height="115" rx="10" fill="url(#cardGrad1)" stroke="#0284c7" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#0369a1" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#38bdf8" text-anchor="middle">1</text>
-    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0f9ff">Scalable</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0f9ff">Terraform IaC</text>
     <rect x="18" y="52" width="180" height="2" fill="#0284c7" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#7dd3fc">&gt; Multi-AZ VMSS</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Auto-Scale Rules</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#7dd3fc">&gt; Reusable Modules</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Remote State Locking</text>
   </g>
 
-  <!-- CARD 2: ROBUST -->
+  <!-- CARD 2: CI/CD PIPELINES -->
   <g transform="translate(266, 75)">
     <rect width="216" height="115" rx="10" fill="url(#cardGrad2)" stroke="#9333ea" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#7e22ce" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#c084fc" text-anchor="middle">2</text>
-    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#faf5ff">Robust</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#faf5ff">CI/CD Pipelines</text>
     <rect x="18" y="52" width="180" height="2" fill="#9333ea" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#d8b4fe">&gt; Chaos Hardened</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Self-Healing Pods</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#d8b4fe">&gt; Azure DevOps / Jenkins</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Multi-Stage YAML</text>
   </g>
 
-  <!-- CARD 3: SECURE -->
+  <!-- CARD 3: DOCKER CONTAINERIZATION -->
   <g transform="translate(502, 75)">
     <rect width="216" height="115" rx="10" fill="url(#cardGrad3)" stroke="#10b981" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#059669" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#6ee7b7" text-anchor="middle">3</text>
-    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0fdf4">Secure</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0fdf4">Docker</text>
     <rect x="18" y="52" width="180" height="2" fill="#10b981" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#6ee7b7">&gt; Zero-Trust &amp; PIM</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; CIS L2 Benchmarks</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#6ee7b7">&gt; Multi-Stage Builds</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Non-Root Minimal Images</text>
   </g>
 
-  <!-- CARD 4: RELIABLE -->
+  <!-- CARD 4: KUBERNETES (AKS/EKS) -->
   <g transform="translate(738, 75)">
     <rect width="216" height="115" rx="10" fill="url(#cardGrad4)" stroke="#0ea5e9" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#0284c7" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#7dd3fc" text-anchor="middle">4</text>
-    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0f9ff">Reliable</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0f9ff">Kubernetes</text>
     <rect x="18" y="52" width="180" height="2" fill="#0ea5e9" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#38bdf8">&gt; 99.99% SLO / SLA</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Predictable Perf</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#38bdf8">&gt; AKS / Pods &amp; Ingress</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Helm Charts &amp; HPA</text>
   </g>
 
-  <!-- CARD 5: PORTABLE -->
+  <!-- CARD 5: SHIFT-LEFT DEVSECOPS -->
   <g transform="translate(974, 75)">
     <rect width="196" height="115" rx="10" fill="url(#cardGrad5)" stroke="#a855f7" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#7c3aed" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#d8b4fe" text-anchor="middle">5</text>
-    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#faf5ff">Portable</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#faf5ff">DevSecOps</text>
     <rect x="18" y="52" width="160" height="2" fill="#a855f7" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#c084fc">&gt; Docker &amp; AKS</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Modular Terraform</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#c084fc">&gt; Checkov &amp; Trivy</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Gitleaks Pre-Commit</text>
   </g>
 
   <!-- ================= ROW 2 (Cards 6 to 10) ================= -->
-  <!-- CARD 6: GOVERNED -->
+  <!-- CARD 6: AZURE & AWS CLOUD -->
   <g transform="translate(30, 210)">
     <rect width="216" height="115" rx="10" fill="url(#cardGrad6)" stroke="#f59e0b" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#d97706" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#fde68a" text-anchor="middle">6</text>
-    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#fffbeb">Governed</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#fffbeb">Cloud Practices</text>
     <rect x="18" y="52" width="180" height="2" fill="#f59e0b" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#fcd34d">&gt; Azure Policy Guard</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Auto Drift Detect</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#fcd34d">&gt; VNets &amp; Subnet NSGs</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Private Endpoints</text>
   </g>
 
-  <!-- CARD 7: HIGH AVAILABILITY -->
+  <!-- CARD 7: SECRETS & IAM -->
   <g transform="translate(266, 210)">
     <rect width="216" height="115" rx="10" fill="url(#cardGrad7)" stroke="#14b8a6" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#0d9488" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#5eead4" text-anchor="middle">7</text>
-    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0fdfa">High Avail</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f0fdfa">Secrets &amp; IAM</text>
     <rect x="18" y="52" width="180" height="2" fill="#14b8a6" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#5eead4">&gt; Multi-Zone Active</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Health Probing</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#5eead4">&gt; Azure Key Vault</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Managed Identities</text>
   </g>
 
-  <!-- CARD 8: COST-OPTIMIZED -->
+  <!-- CARD 8: OBSERVABILITY -->
   <g transform="translate(502, 210)">
     <rect width="216" height="115" rx="10" fill="url(#cardGrad8)" stroke="#84cc16" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#65a30d" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#bef264" text-anchor="middle">8</text>
-    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f7fee7">Cost-Optim</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#f7fee7">Observability</text>
     <rect x="18" y="52" width="180" height="2" fill="#84cc16" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#a3e635">&gt; FinOps 28% OPEX Cut</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Rightsizing &amp; RIs</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#a3e635">&gt; Azure Monitor / KQL</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Log Analytics &amp; Alerts</text>
   </g>
 
-  <!-- CARD 9: BACKED UP -->
+  <!-- CARD 9: RESILIENCE & HA -->
   <g transform="translate(738, 210)">
     <rect width="216" height="115" rx="10" fill="url(#cardGrad9)" stroke="#f43f5e" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#e11d48" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#fda4af" text-anchor="middle">9</text>
-    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#fff1f2">Backed Up</text>
+    <text x="50" y="32" class="font-sans font-bold" font-size="15" fill="#fff1f2">Resilience &amp; HA</text>
     <rect x="18" y="52" width="180" height="2" fill="#f43f5e" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#fb7185">&gt; ASR: RTO &lt; 1h</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; ZRS / GRS: RPO &lt; 15m</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#fb7185">&gt; Multi-AZ Scale Sets</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Backup &amp; Health Probes</text>
   </g>
 
-  <!-- CARD 10: COMPLIANT & MONITORED -->
+  <!-- CARD 10: COST EFFICIENCY -->
   <g transform="translate(974, 210)">
     <rect width="196" height="115" rx="10" fill="url(#cardGrad10)" stroke="#06b6d4" stroke-width="1.8" />
     <circle cx="28" cy="28" r="14" fill="#0891b2" fill-opacity="0.5" />
     <text x="28" y="33" class="font-sans font-bold" font-size="14" fill="#67e8f9" text-anchor="middle">10</text>
-    <text x="48" y="32" class="font-sans font-bold" font-size="14" fill="#ecfeff">Monitored</text>
+    <text x="48" y="32" class="font-sans font-bold" font-size="14" fill="#ecfeff">Cost Guard</text>
     <rect x="18" y="52" width="160" height="2" fill="#06b6d4" fill-opacity="0.4" />
-    <text x="18" y="74" class="font-mono" font-size="11" fill="#22d3ee">&gt; Azure Monitor AMA</text>
-    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; DCR Log Filtering</text>
+    <text x="18" y="74" class="font-mono" font-size="11" fill="#22d3ee">&gt; Auto Stop Idle VMs</text>
+    <text x="18" y="92" class="font-mono" font-size="11" fill="#94a3b8">&gt; Orphan Disk Cleanup</text>
   </g>
 </svg>

@@ -100,10 +100,10 @@
     <rect width="400" height="46" rx="8" fill="url(#nodeExp)" stroke="#10b981" stroke-width="2" />
     <circle cx="22" cy="23" r="5" fill="#34d399" />
     <text x="210" y="22" class="font-sans font-bold" font-size="13" fill="#a7f3d0" text-anchor="middle">
-      Senior Professional Track (16+ Yrs IT &#8226; 7+ Yrs DevSecOps)
+      Senior DevSecOps Track (16+ Yrs IT &#8226; 7+ Yrs DevSecOps)
     </text>
     <text x="210" y="38" class="font-mono" font-size="10" fill="#6ee7b7" text-anchor="middle">
-      Business ROI &#8226; Architecture Blueprints &#8226; Zero-Downtime Governance
+      Terraform IaC &#8226; Multi-Stage CI/CD &#8226; Kubernetes &#8226; Shift-Left Security
     </text>
   </g>
 
@@ -115,9 +115,9 @@
     <text x="23" y="26" class="font-sans font-bold" font-size="13" fill="#38bdf8" text-anchor="middle">1</text>
     <text x="42" y="26" class="font-sans font-bold" font-size="13" fill="#f0f9ff">Impact Resume</text>
     <line x1="12" y1="38" x2="200" y2="38" stroke="#0284c7" stroke-width="1" stroke-opacity="0.5" />
-    <text x="12" y="58" class="font-mono" font-size="10" fill="#7dd3fc">&gt; 100+ Workloads Migrated</text>
-    <text x="12" y="74" class="font-mono" font-size="10" fill="#7dd3fc">&gt; 28% FinOps OPEX Saved</text>
-    <text x="12" y="90" class="font-mono" font-size="10" fill="#94a3b8">&gt; Zero Downtime</text>
+    <text x="12" y="58" class="font-mono" font-size="10" fill="#7dd3fc">&gt; Reusable Terraform IaC</text>
+    <text x="12" y="74" class="font-mono" font-size="10" fill="#7dd3fc">&gt; Multi-Stage CI/CD Pipelines</text>
+    <text x="12" y="90" class="font-mono" font-size="10" fill="#94a3b8">&gt; K8s &amp; Cloud Workloads</text>
   </g>
 
   <!-- CARD 2: LINKEDIN -->
@@ -127,9 +127,9 @@
     <text x="23" y="26" class="font-sans font-bold" font-size="13" fill="#93c5fd" text-anchor="middle">2</text>
     <text x="42" y="26" class="font-sans font-bold" font-size="13" fill="#eff6ff">LinkedIn Voice</text>
     <line x1="12" y1="38" x2="200" y2="38" stroke="#2563eb" stroke-width="1" stroke-opacity="0.5" />
-    <text x="12" y="58" class="font-mono" font-size="10" fill="#93c5fd">&gt; Thought Leadership</text>
-    <text x="12" y="74" class="font-mono" font-size="10" fill="#93c5fd">&gt; Architecture Blueprints</text>
-    <text x="12" y="90" class="font-mono" font-size="10" fill="#94a3b8">&gt; Industry Peer Network</text>
+    <text x="12" y="58" class="font-mono" font-size="10" fill="#93c5fd">&gt; DevOps Best Practices</text>
+    <text x="12" y="74" class="font-mono" font-size="10" fill="#93c5fd">&gt; Terraform &amp; CI/CD Snippets</text>
+    <text x="12" y="90" class="font-mono" font-size="10" fill="#94a3b8">&gt; Community Knowledge</text>
   </g>
 
   <!-- CARD 3: JOB PORTALS -->
@@ -139,8 +139,8 @@
     <text x="23" y="26" class="font-sans font-bold" font-size="13" fill="#fde68a" text-anchor="middle">3</text>
     <text x="42" y="26" class="font-sans font-bold" font-size="13" fill="#fffbeb">Targeted Portals</text>
     <line x1="12" y1="38" x2="200" y2="38" stroke="#d97706" stroke-width="1" stroke-opacity="0.5" />
-    <text x="12" y="58" class="font-mono" font-size="10" fill="#fcd34d">&gt; DevSecOps &amp; Cloud</text>
-    <text x="12" y="74" class="font-mono" font-size="10" fill="#fcd34d">&gt; CAF, Hub-Spoke, IaC</text>
+    <text x="12" y="58" class="font-mono" font-size="10" fill="#fcd34d">&gt; Terraform, CI/CD, Azure</text>
+    <text x="12" y="74" class="font-mono" font-size="10" fill="#fcd34d">&gt; Kubernetes, Docker, AWS</text>
     <text x="12" y="90" class="font-mono" font-size="10" fill="#94a3b8">&gt; High-Intent Keywords</text>
   </g>
 
@@ -151,9 +151,9 @@
     <text x="23" y="26" class="font-sans font-bold" font-size="13" fill="#d8b4fe" text-anchor="middle">4</text>
     <text x="42" y="26" class="font-sans font-bold" font-size="13" fill="#faf5ff">GitHub Repos</text>
     <line x1="12" y1="38" x2="200" y2="38" stroke="#9333ea" stroke-width="1" stroke-opacity="0.5" />
-    <text x="12" y="58" class="font-mono" font-size="10" fill="#d8b4fe">&gt; Reusable Terraform IaC</text>
-    <text x="12" y="74" class="font-mono" font-size="10" fill="#d8b4fe">&gt; Hardened CI/CD Pipes</text>
-    <text x="12" y="90" class="font-mono" font-size="10" fill="#94a3b8">&gt; Production Codeowners</text>
+    <text x="12" y="58" class="font-mono" font-size="10" fill="#d8b4fe">&gt; Modular Terraform Modules</text>
+    <text x="12" y="74" class="font-mono" font-size="10" fill="#d8b4fe">&gt; Azure DevOps / YAML Pipes</text>
+    <text x="12" y="90" class="font-mono" font-size="10" fill="#94a3b8">&gt; Helm Charts &amp; AKS IaC</text>
   </g>
 
   <!-- CARD 5: BLOG & ADRs -->
@@ -161,10 +161,10 @@
     <rect width="218" height="102" rx="8" fill="#042f2e" stroke="#059669" stroke-width="1.8" />
     <rect x="12" y="10" width="22" height="22" rx="4" fill="#047857" />
     <text x="23" y="26" class="font-sans font-bold" font-size="13" fill="#6ee7b7" text-anchor="middle">5</text>
-    <text x="42" y="26" class="font-sans font-bold" font-size="13" fill="#f0fdf4">Case Studies &amp; ADRs</text>
+    <text x="42" y="26" class="font-sans font-bold" font-size="13" fill="#f0fdf4">Runbooks &amp; SOPs</text>
     <line x1="12" y1="38" x2="200" y2="38" stroke="#059669" stroke-width="1" stroke-opacity="0.5" />
-    <text x="12" y="58" class="font-mono" font-size="10" fill="#6ee7b7">&gt; Arch Decision Records</text>
-    <text x="12" y="74" class="font-mono" font-size="10" fill="#6ee7b7">&gt; Real Post-Mortems</text>
-    <text x="12" y="90" class="font-mono" font-size="10" fill="#94a3b8">&gt; Migration Strategies</text>
+    <text x="12" y="58" class="font-mono" font-size="10" fill="#6ee7b7">&gt; Production SOPs &amp; Runbooks</text>
+    <text x="12" y="74" class="font-mono" font-size="10" fill="#6ee7b7">&gt; Deployment Checklists</text>
+    <text x="12" y="90" class="font-mono" font-size="10" fill="#94a3b8">&gt; Blameless Retrospectives</text>
   </g>
 </svg>
